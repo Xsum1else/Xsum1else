@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xsum1else
+- 👋 Hi, I’m @X.Chai
 - 👀 I’m interested in C# C++ C DSP C51 and STM32 
 - 🌱 I’m currently learning AltiumDesigner and Fusion360
 - 💞️ I’m looking to collaborate on personal project what is interesting
